@@ -1,5 +1,5 @@
-Python Tutorial
-Order of Learning:
+##Python Tutorial
+#Order of Learning:
 python3basics.ipynb
 python3 list tutorial.ipynb
 python3 tutorial sets and tuples.ipynb
